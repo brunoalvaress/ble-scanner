@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+
+    tools:context="com.cursoandroid.bletestebruno.MainActivity">
+
+    <Button
+        android:id="@+id/botaoComecaEscanearId"
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/textViewId"
+        android:layout_marginBottom="187dp"
+        android:background="#313030"
+        android:text="Medir TxPower"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:id="@+id/botaoComecaEscanear2metrosId"
+        android:layout_width="82dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/botaoComecaEscanearId"
+        android:layout_below="@+id/botaoComecaEscanearId"
+        android:layout_marginTop="-162dp"
+        android:background="#313030"
+        android:text="Medir 2 metros"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:id="@+id/botaoComecaEscanear3metrosId"
+        android:layout_width="84dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textViewId"
+        android:layout_alignTop="@+id/botaoComecaEscanearId"
+        android:background="#313030"
+        android:text="Medir 3 Metros"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:id="@+id/botaoComecaEscanear5metrosId"
+        android:layout_width="91dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/botaoParaEscanearId"
+        android:layout_centerHorizontal="true"
+        android:background="#313030"
+        android:text="Medir 5 Metros"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:id="@+id/botaoComecaEscanear4metrosId"
+        android:layout_width="82dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/botaoComecaEscanear3metrosId"
+        android:layout_alignTop="@+id/botaoComecaEscanear2metrosId"
+        android:background="#313030"
+        android:text="Medir 4 Metros"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:id="@+id/botaoParaEscanearId"
+        android:layout_width="105dp"
+        android:layout_height="88dp"
+        android:layout_alignEnd="@+id/textView"
+        android:layout_alignParentBottom="true"
+        android:background="#313030"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="Escaneando, aguarde"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:id="@+id/textViewId"
+        android:layout_width="256dp"
+        android:layout_height="187dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:maxLines="30"
+        android:scrollbars="vertical"
+        android:textColor="@android:color/background_dark"
+        android:textSize="11sp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="ESCANER BLUETOOTH LOW ENERGY - TRABALHO DE CONCLUSÃO DE CURSO - BRUNO ALVARES DE MIRANDA"
+        android:textColor="@android:color/background_dark"
+        android:textStyle="normal|bold" />
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1016956835274",
+    "firebase_url": "https://bletestebruno.firebaseio.com",
+    "project_id": "bletestebruno",
+    "storage_bucket": "bletestebruno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016956835274:android:96314330c2f1fc22",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.bletestebruno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016956835274-e4dne2t126umitmeh7h4mi4t43ucaaed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.bletestebruno",
+            "certificate_hash": "d47eee85c0b529e4087ff66f9e2f73b0e6f15439"
+          }
+        },
+        {
+          "client_id": "1016956835274-m4o62oevbnukbgmspi69jiergugf1ct8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClkyfInQ5hJC-WXa10CPlCOUUS3vvNHMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016956835274-m4o62oevbnukbgmspi69jiergugf1ct8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

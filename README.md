@@ -1,4 +1,4 @@
-# ble-scanner
+# Bluetooth Low Energy Scanner
  
  App that scans and retrieves RSS values ​​from devices using Bluetooth Low Energy.
  

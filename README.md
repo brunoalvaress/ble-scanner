@@ -1,6 +1,7 @@
 # ble-scanner
  
  App that scans and retrieves RSS values ​​from devices using Bluetooth Low Energy.
+ 
  App que escaneia e obtêm valores RSS de dispositivos que utilizam Bluetooth Low Energy.
 
 This application was developed for the monograph of the Telecommunications Engineering course. The main focus is to get RSS

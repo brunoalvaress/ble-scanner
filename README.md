@@ -8,7 +8,7 @@ This application was developed for the monograph of the Telecommunications Engin
 devices that use Low Energy Bluetooth technology, and send those values to a database in Firebase. To obtain the
 transmission power is required to perform the measurement at 1 meter distance, after that can measure distances up to 5 meters. To use the values saved in the database to perform statistical calculations, generate graphs and boxplots, you can use the script developed in Python by me and published at this link https://github.com/brunoalvaress/rssi-calculator. 
 
- 
+ ---
 
 Este aplicativo foi desenvolvido para a monografia do curso de Engenharia de Telecomunicações. O foco principal é obter valores RSS de 
 dispositivos que utilizam a tecnologia Bluetooth Low Energy, e enviar esses valores para um banco de dados no Firebase. Para obter a 

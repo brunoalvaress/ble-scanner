@@ -10,7 +10,8 @@ dispositivos que utilizam a tecnologia Bluetooth Low Energy, e enviar esses valo
 
 # Instalação
 
-Primeiramente é necessário realizar o clone do projeto para a pasta desejada, utilizando o comando: git clone https://github.com/brunoalvaress/ble-scanner.git
+1. É necessário realizar o clone do projeto para a pasta desejada, utilizando o comando: git clone https://github.com/brunoalvaress/ble-scanner.git
+2. No link https://firebase.google.com é necessário criar uma conta, após isso, efetuar o login e ciar um banco de dados utilizando a ferramente Realtime Database
 
 # Utilização 
 

@@ -11,6 +11,7 @@ Este aplicativo foi desenvolvido como parte do Trabalho de Conclusão do curso d
 # Requisitos
 
 - Celular com o sistema operacional Android compatível com a tecnologia BLE
+- Dispositivo que utilize a tecnologia Bluetooth Low Energy
 
 # Instalação
 
@@ -20,6 +21,6 @@ Este aplicativo foi desenvolvido como parte do Trabalho de Conclusão do curso d
 
 # Utilização 
 
-Para obter a potência de transmissão é necessário realizar a medição a 1 metro de distância do dispositivo BLE escolhido, após isso pode-se medir distâncias até 5 metros. 
+Para obter a potência de transmissão é necessário realizar a medição a 1 metro de distância do dispositivo BLE escolhido, após isso pode-se medir distâncias até 5 metros. O aplicativo vem configurado para realizar todas essas medições ao simples clique do botão desejado.
 
 

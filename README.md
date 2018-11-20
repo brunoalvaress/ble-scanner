@@ -1,11 +1,11 @@
 # Bluetooth Low Energy Scanner
 
-Este aplicativo foi desenvolvido para a monografia do curso de Engenharia de Telecomunicações. O foco principal é obter valores RSS de 
-dispositivos que utilizam a tecnologia Bluetooth Low Energy, e enviar esses valores para um banco de dados no Firebase. 
+Este aplicativo foi desenvolvido como parte do Trabalho de Conclusão do curso de Engenharia de Telecomunicações. O principal objetivo é obter valores RSSI de dispositivos que utilizam a tecnologia Bluetooth Low Energy, e enviar esses valores para um banco de dados no Firebase. Para utilizar os valores salvos no banco para realizar cálculos estatísticos, gerar gráficos e boxplots, pode-se usar o script desenvolvido em Python por mim e publicado neste link https://github.com/brunoalvaress/rssi-calculator.
 
 # Tecnologias Usadas
 
 - Android Studio 3.1
+- Biblioteca BLE Android
 - Firebase Realtime Database
 
 # Requisitos
@@ -22,4 +22,4 @@ dispositivos que utilizam a tecnologia Bluetooth Low Energy, e enviar esses valo
 
 Para obter a potência de transmissão é necessário realizar a medição a 1 metro de distância do dispositivo BLE escolhido, após isso pode-se medir distâncias até 5 metros. 
 
-Para utilizar os valores salvos no banco para realizar cálculos estatísticos, gerar gráficos e boxplots, pode-se usar o script desenvolvido em Python por mim e publicado neste link https://github.com/brunoalvaress/rssi-calculator.
+

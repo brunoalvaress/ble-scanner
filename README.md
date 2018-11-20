@@ -15,7 +15,7 @@ Este aplicativo foi desenvolvido como parte do Trabalho de Conclusão do curso d
 
 # Instalação
 
-1. É necessário realizar o clone do projeto para a pasta desejada, utilizando o comando: git clone https://github.com/brunoalvaress/ble-scanner.git
+1. É necessário realizar o clone do projeto para a pasta desejada, utilizando o comando: **git clone https://github.com/brunoalvaress/ble-scanner.git 
 2. No link https://firebase.google.com é necessário criar uma conta, após isso, efetuar o login e criar um banco de dados utilizando a ferramenta Realtime Database
 3. Configure o código do projeto clonado para que reconheça o banco de dados criado anteriormente
 
